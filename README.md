@@ -17,24 +17,11 @@ Sales & Profitability Analytics
 Interactive Dashboard Design
 Data Model Components
 
-Fact Tables
+Fact Tables: Sales, Inventory, Campaign, Order Process, Sales Targets, Factless Mapping Table
 
-Sales
-Inventory
-Campaign
-Order Process
-Sales Targets
-Factless Mapping Table
+Dimension Tables: Date, Product, Customer, Campaign, Location, Order Flag
 
-Dimension Tables
-
-Date
-Product
-Customer
-Campaign
-Location
-Order Flag
-Dashboard Insights
+Dashboard Insights:
 
 The final dashboard provides insights into:
 
